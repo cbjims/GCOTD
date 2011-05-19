@@ -52,5 +52,5 @@ En gros, vous pouvez penser à l'index comme une zone de _préparation de commit
 ##Bonus##
 
  - Pour savoir ce qui sera commité : `git status`
- - Pour retirer un fichier de l'index : `git rm --cached fichier`
+ - Pour retirer un fichier de l'index : `git reset HEAD fichier`
  - Pour plus d'infos : http://progit.org/book/ch2-2.html
