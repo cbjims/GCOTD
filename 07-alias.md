@@ -1,6 +1,6 @@
 #Alias#
 
-Marre de taper `git st` à la place de `git status\ et que ça ne fonctionne pas ? Vous pourriez écrire un script pour ça, mais il y a plus simple…
+Marre de taper `git st` à la place de `git status` et que ça ne fonctionne pas ? Vous pourriez écrire un script pour ça, mais il y a plus simple…
 
 Git possède son propre système d'alias, ce qui vous évitera l'écriture d'un petit script juste pour ça.
 
