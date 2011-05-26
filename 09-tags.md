@@ -4,7 +4,7 @@ Git intègre un système de tags, permettant de marquer certains commits.
 Il existe deux types de tags : les tags légers et les tags annotés. 
 
 Voir les tags
---------------
+-------------
 Avant de créer des tags, voici comment les lister :
 
     git tag
