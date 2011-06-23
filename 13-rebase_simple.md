@@ -94,7 +94,7 @@ Et hop un petit alias pullff -> pull --ff-only.
 
 Conclusion
 ==========
-C'était long mais je préfèrai détailler comment je m'en sers exactement plutôt que de survoler la commande et de laisser des doutes.
+C'était long mais je préfère détailler comment je m'en sers exactement plutôt que de survoler la commande et de laisser des doutes.
 
 Une dernière fois : on ne rebase pas des commits déjà publiés.
 
