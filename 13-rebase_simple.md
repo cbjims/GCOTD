@@ -1,7 +1,7 @@
 Rebase simple
 =============
 
-`git rebase` une commande puissante (et donc dangereuse). Ici, je ne présente qu'une des possibilités du `rebase`.
+`git rebase` est une commande puissante (et donc dangereuse). Ici, je ne présente qu'une des possibilités du `rebase`.
 
 Avertissement
 -------------
