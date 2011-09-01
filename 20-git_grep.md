@@ -11,7 +11,7 @@ Quelques options pratiques
  * `--cached` : pour chercher dans l'index
  * `-n` : pour afficher les numéros de lignes
  * `--name-only` : pour n'afficher que le nom des fichiers
- * `--open-files-in-pager <pager>` : pour ouvrir directement dans un pager (`less`, `vi`…) les fichiers correspondants, le curseur positionné à la première occurence du pattern
+ * `--open-files-in-pager <pager>` : pour ouvrir directement dans un pager (`less`, `vi`…) les fichiers correspondants, le curseur positionné à la première occurrence du pattern
  * `<tree>` : pour chercher sur un commit/branche/tag en particulier plutôt que sur la version courante
 
 Chercher dans tout l'historique
